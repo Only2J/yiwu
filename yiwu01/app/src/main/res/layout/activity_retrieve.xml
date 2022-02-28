@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.fleamarket.RetrieveActivity">
+
+
+    <EditText
+        android:id="@+id/edit_rt_name"
+        android:layout_width="302dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="48dp"
+        android:hint="请输入学号"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/edit_rt_tel"
+        android:layout_width="302dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="31dp"
+        android:hint="请输入手机号码"
+        app:layout_constraintEnd_toEndOf="@+id/edit_rt_name"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/edit_rt_name"
+        app:layout_constraintTop_toBottomOf="@+id/edit_rt_name" />
+
+    <EditText
+        android:id="@+id/edit_rt_idcode"
+        android:layout_width="204dp"
+        android:layout_height="63dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="30dp"
+        android:hint="请输入手机验证码"
+        app:layout_constraintStart_toStartOf="@+id/edit_rt_tel"
+        app:layout_constraintTop_toBottomOf="@+id/edit_rt_tel" />
+
+    <Button
+        android:id="@+id/bt_rt_getidcode"
+        android:layout_width="wrap_content"
+        android:layout_height="54dp"
+        android:layout_marginStart="10dp"
+        android:text="获取验证码"
+        app:layout_constraintBottom_toBottomOf="@+id/edit_rt_idcode"
+        app:layout_constraintStart_toEndOf="@+id/edit_rt_idcode" />
+
+    <EditText
+        android:id="@+id/edit_rt_password"
+        android:layout_width="302dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="30dp"
+        android:hint="请输入密码"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="@+id/edit_rt_tel"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/edit_rt_tel"
+        app:layout_constraintTop_toBottomOf="@+id/edit_rt_idcode" />
+
+    <EditText
+        android:id="@+id/edit_rt_password2"
+        android:layout_width="302dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="30dp"
+        android:hint="请再次输入密码"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="@+id/edit_rt_password"
+        app:layout_constraintStart_toStartOf="@+id/edit_rt_password"
+        app:layout_constraintTop_toBottomOf="@+id/edit_rt_password" />
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="68dp"
+        android:text="确认"
+        app:layout_constraintEnd_toEndOf="@+id/edit_rt_password2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/edit_rt_password2"
+        app:layout_constraintTop_toBottomOf="@+id/edit_rt_password2" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

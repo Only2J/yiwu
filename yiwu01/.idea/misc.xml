@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/gitee/yiwu/app/src/main/res/layout/activity_welcome.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1953125" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable-v24/my.xml" value="0.10092592592592593" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable-v24/redbotton.xml" value="0.1953125" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/bgcolor.xml" value="0.18888888888888888" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/circle.xml" value="0.18888888888888888" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/fabu.xml" value="0.19074074074074074" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/home.xml" value="0.1953125" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/layout_clickbg.xml" value="0.10729166666666666" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/ll_selector_white.xml" value="0.1953125" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/luntan.xml" value="0.1" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/main_emergent_bg.xml" value="0.1953125" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/mainnewpublish_bg.xml" value="0.1" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/message.xml" value="0.1" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/my.xml" value="0.1" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/redbotton.xml" value="0.1953125" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/drawable/textcolor.xml" value="0.1953125" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_goodslist.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_my_center.xml" value="0.22" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_my_goods.xml" value="0.16580310880829016" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_my_order.xml" value="0.14666666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_register.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_retrieve.xml" value="0.22" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_setting.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_tele_login.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/activity_welcome.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/content_my_order.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_fa_bu.xml" value="0.1" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_first.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_goods1.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_goods2.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_goods3.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_goods4.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_goods5.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_lun_tan.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_message.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_my.xml" value="0.16666666666666666" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/fragment_second.xml" value="0.17916666666666667" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/layout_changepwd.xml" value="0.1" />
+        <entry key="..\:/gitee/yiwu/yiwu01/app/src/main/res/layout/layout_chongzhi.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
